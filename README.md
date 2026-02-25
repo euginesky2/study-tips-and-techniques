@@ -16,11 +16,11 @@ A collaborative guide by:
 This guide covers study tip techniques  that every student should know about.
 Each section is written by a different team member.
 
-## VS Code
+## Active recall Techniques 
 <!-- [Team Member 1 Name] will write this section -->
 
-## Notion
+## Time management methods 
 <!-- [Team Member 2 Name] will write this section -->
 
-## Canva
+## Digital tools for studying 
 <!-- [Team Member 3 Name] will write this section -->
