@@ -29,7 +29,22 @@ Each section is written by a different team member.
 -This works when dealing with diagrams, draw a diagram from what you remember 
 
 ## Time management methods 
-<!-- [Team Member 2 Name] will write this section -->
+<!-- Mark Muraya
+1.** Prioritization (Eisenhower Matrix)**
+Separate tasks into urgent vs. important.
+
+Focus on high-impact study tasks first (e.g., preparing for exams over minor assignments).
+
+2. **Pomodoro Technique**
+Study in 25-minute focused intervals, followed by 5-minute breaks.
+
+Helps maintain concentration and prevents burnout.
+
+3. **Time Blocking**
+Allocate specific hours in your day for different subjects or tasks.
+
+Reduces procrastination by giving structure to your schedule.
+
 
 ## Digital tools for studying 
 <!-- [Team Member 3 Name] will write this section -->
