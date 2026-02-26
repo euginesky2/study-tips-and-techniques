@@ -17,15 +17,20 @@ This guide covers study tip techniques  that every student should know about.
 Each section is written by a different team member.
 
 ## Active recall Techniques
-1. Whiteboard teaching
-- Pretend you are teaching a session to a class of junior developers
-2. Layered Explanation
--Exlaining the concept three times to three different audiences
-3. Reverse Questioning
--Instead of starting with theory, start with the problem it solves
-4. Write it down technique
--Try closing the book and write everything you remember based on what you learnt earlier on
-5. Visual and spatial techniques
+<!-- Eugine Kiprono
+1. **White board teaching** 
+- Pretend you are teaching a session to a class of junior developers. This enables your to have a firsthand opportunity to actively recall your topics
+
+2. **Layered Explanation**
+-Exlaining the concept three times to three different audiences. As you reeat, you are able to practise on your memorization and this enables you to actively recall your topics
+
+3. **Reverse Questioning**
+-Instead of starting with theory, start with the problem it solves. The problem exposes you more to the topic and its relations.
+
+4. **Write it down technique**
+-Try closing the book and write everything you remember based on what you learnt earlier on. You will be able to recall what you learnt more precisely
+
+5. **Visual and spatial techniques**
 -This works when dealing with diagrams, draw a diagram from what you remember 
 
 ## Time management methods 
